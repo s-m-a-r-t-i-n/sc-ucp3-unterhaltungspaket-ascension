@@ -1,0 +1,19 @@
+{
+  "name": "Bernd",
+  "description": "Na toll...jetz muss sich der arme Bernd mit ein Paar Verückten herumschlagen, die nichts besseres zu tun haben als vorm Bildschirm unrealistische Massenschlachten zu simulieren. Er möchte einfach seine Ruhe haben und Wände beim Einstauben zusehen. Aber das ist ihm wohl nicht vergönnt.",
+  "author": "S.martin",
+  "link": "...",
+  "version": "1.0.0",
+  "defaultLang": "de",
+  "supportedLang": ["de"],
+  "switched": {
+    "binks": true,
+    "speech": true,
+    "aic": true,
+    "aiv": true,
+    "lord": true,
+    "startTroops": true,
+    "lines": true,
+    "portrait": true
+  }
+}
