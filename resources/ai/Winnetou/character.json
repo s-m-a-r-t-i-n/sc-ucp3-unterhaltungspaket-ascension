@@ -108,7 +108,7 @@
 				"RecruitProbAttackStrong": 40,
 				"SortieUnitRangedMin": 6,
 				"SortieUnitRanged": "HorseArcher",
-				"SortieUnitMeleeMin": 2,
+				"SortieUnitMeleeMin": 12,
 				"SortieUnitMelee": "Spearman",
 				"DefDiggingUnitMax": 0,
 				"DefDiggingUnit": "Spearman",
