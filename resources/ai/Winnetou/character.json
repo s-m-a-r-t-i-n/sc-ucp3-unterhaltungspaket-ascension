@@ -175,7 +175,7 @@
 				"AttMaxLaddermen": 0,
 				"AttMaxTunnelers": 0,
 				"AttUnitPatrol": "HorseArcher",
-				"AttUnitPatrolMax": 500,
+				"AttUnitPatrolMax": 200,
 				"AttUnitPatrolGroupsCount": 2,
 				"AttUnitBackup": "Assassin",
 				"AttUnitBackupMax": 10,
